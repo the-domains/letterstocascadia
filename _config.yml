@@ -2,6 +2,7 @@ name: LettersToCascadia
 favicon: null
 layout_spectrum: 0.778043826809153
 typography_spectrum: 0.0861336076632142
+title: Letters to Cascadia
 cta:
   domain: null
   bucket: null

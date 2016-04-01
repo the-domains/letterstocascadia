@@ -1,7 +1,7 @@
 name: LettersToCascadia
 favicon: null
-layout_spectrum: 0.778043826809153
-typography_spectrum: 0.0861336076632142
+layout_spectrum: 1
+typography_spectrum: 0
 title: Letters to Cascadia
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#360468'
+    - '#a0a5a9'
+    - '#0791f5'
+    - '#0738fe'
+    - '#e3e3e3'
   brandStrength: 0.9685702251736075
   lightness: 0.28480472206138074
   saturation: 0.030870032496750355

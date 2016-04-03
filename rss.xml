@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Letters to Cascadia]]></title>
         <description><![CDATA[Letters to Cascadia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.letterstocascadia.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 03:15:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 19:24:09 GMT</lastBuildDate>
+        <atom:link href="http://www.letterstocascadia.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Prairie Moonlight with Your Name on It]]></title>
-            <description><![CDATA[<article><h1>Prairie Moonlight with Your Name on It</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6fe6fc9ff9fc1fb53836b321e8c10d022d9060c.jpg"></article>]]></description>
-            <link>undefinedprairie-moonlight-with-your-name-on-it/index.html</link>
+            <description><![CDATA[<article><h1>Prairie Moonlight with Your Name on It</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/162784526f13d29c477e393db74435596a86784c.jpg"></article>]]></description>
+            <link>http://www.letterstocascadia.com/prairie-moonlight-with-your-name-on-it/index.html</link>
             <guid isPermaLink="false">173224e5-4a69-401a-8fc2-673f90ebdcf7</guid>
-            <pubDate>Fri, 01 Apr 2016 03:15:26 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 19:24:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

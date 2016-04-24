@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T20:36:40.455Z'
-dateModified: '2016-04-24T20:36:39.882Z'
+datePublished: '2016-04-24T20:36:12.126Z'
+dateModified: '2016-04-24T20:35:20.158Z'
 title: 'Letters to Cascadia: 2. I Love You My Love'
 author:
   - name: ''
